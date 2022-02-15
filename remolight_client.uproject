@@ -23,5 +23,13 @@
 				"Linux"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor"
 	]
 }
